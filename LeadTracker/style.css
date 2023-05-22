@@ -1,0 +1,52 @@
+
+body {
+    margin: 0px;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    min-width: 456px;
+    background-color: whitesmoke;
+  }
+  
+  input {
+    width: 100% ;
+    padding: 10px ;
+    box-sizing : border-box ;
+    margin-bottom: 8px;
+    border : 1px solid purple ;
+    border-radius: 5px;
+  }
+  
+  button {
+    border: 1px solid purple ;
+    width : 150px ;
+    padding: 8px 10px;
+    border-radius: 5px;
+    background-color: purple ;
+    cursor: pointer;
+    font-size: 19px ;
+    font-weight: bold;
+    color: white;
+  }
+  
+  #del-btn {
+    background-color: white;
+    color : purple ;
+    margin-left: 3px;
+  }
+
+  #tab-btn {
+    margin-left : 3px ;
+  }
+  ul {
+    padding-left: 3px;
+    list-style: none;
+  }
+    
+  li {
+    margin-top : 4px ;
+    
+  }
+  a {
+    color: purple;
+  
+  }
